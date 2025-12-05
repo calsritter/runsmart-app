@@ -83,7 +83,7 @@ export default function RunSmartApp() {
               </h1>
             </div>
             <div className="flex items-center gap-2 sm:gap-4">
-              <div className="hidden sm:flex items-center gap-2 px-3 sm:px-4 py-2 bg-[#FF6B00]/10 rounded-full border border-[#FF6B00]/20">
+              <div className="hidden sm:flex items-center gap-2 px-3 sm:px-4 py-2 bg-[#FF6B00]/20 rounded-full border border-[#FF6B00]/40">
                 <Flame className="w-4 h-4 text-[#FF6B00]" />
                 <span className="text-xs sm:text-sm font-semibold text-[#FF6B00]">12 dias</span>
               </div>
